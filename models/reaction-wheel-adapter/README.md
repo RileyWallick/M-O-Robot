@@ -1,0 +1,2 @@
+This folder contains part files and 3D print files for an adapter that is required for the reaction wheel mechanism that will be used for gyroscopic stabilization.
+This adapter will connect the shaft of a Sunnysky 1800KV motor and a 95mm inertia flywheel.
