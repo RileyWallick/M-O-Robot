@@ -1,0 +1,2 @@
+This folder contains part files and 3D print files for a cube that several reaction wheels on the Sunnysky motors can be attached to.
+Using this as a way to get an intuitive grasp of how this system will behave in real 3 dimensional space and as a prototype rig for adjusting behavior, adjusting PIDs, etc.
