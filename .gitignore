@@ -1,2 +1,5 @@
 
 M-O-Robot.code-workspace
+
+# Ignore Solidworks temp files
+~$*
